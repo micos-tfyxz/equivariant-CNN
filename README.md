@@ -1,2 +1,2 @@
 # equivariant-CNN
-[Read the full PDF documentation](readme.pdf)
+[Read the PDF documentation](readme.pdf)
